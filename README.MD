@@ -1,12 +1,8 @@
 ```
-███████╗██╗   ██╗███╗   ██╗████████╗██╗  ██╗██████╗  ██████╗ ███╗   ██╗
-██╔════╝██║   ██║████╗  ██║╚══██╔══╝██║  ██║██╔══██╗██╔═══██╗████╗  ██║
-█████╗  ██║   ██║██╔██╗ ██║   ██║   ███████║██████╔╝██║   ██║██╔██╗ ██║
-██╔══╝  ██║   ██║██║╚██╗██║   ██║   ██╔══██║██╔═══╝ ██║   ██║██║╚██╗██║
-███████╗╚██████╔╝██║ ╚████║   ██║   ██║  ██║██║     ╚██████╔╝██║ ╚████║
-╚══════╝ ╚═════╝ ╚═╝  ╚═══╝   ╚═╝   ╚═╝  ╚═╝╚═╝      ╚═════╝ ╚═╝  ╚═══╝
 
+SYNTHRON CFD Trader
 BY MAGNA OPUS TECHNOLOGIES
+
 ```
 
 Welcome to the **SYNTHRON CFD Trader**, a cutting-edge platform designed for seamless Contract for Difference (CFD) trading. This system combines world-class technologies with advanced trading strategies to empower traders and institutions.
